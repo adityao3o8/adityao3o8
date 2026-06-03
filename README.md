@@ -117,21 +117,7 @@ Developed collaborative file-sharing solutions and enterprise workflows while wo
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-1d4fbbf5-5d8d-4d2d-93d1-cf6d4d0f2a1c.gif" width="100%">
 
-## 🏅 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityao3o8&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adityao3o8&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityao3o8&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=adityao3o8&theme=tokyonight"/>
