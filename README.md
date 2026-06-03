@@ -143,9 +143,9 @@ Developed collaborative file-sharing solutions and enterprise workflows while wo
 
 ## 🌐 Connect With Me
 
-📧 Email: as6668@srmist.edu.in
+📧 Email: a4adityasingh4128@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_LINK
+💼 LinkedIn: https://www.linkedin.com/in/aditya-singh-014722291/
 
 🌍 Portfolio: Coming Soon
 
