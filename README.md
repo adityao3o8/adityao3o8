@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-🎓 Pre-Final Year Computer Science Student at SRM University
+🎓 Final Year Computer Science Student at SRM University
 
 ☁️ AWS Certified Solutions Architect Associate
 
